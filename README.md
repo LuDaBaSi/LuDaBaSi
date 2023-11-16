@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card" />
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuDaBaSi)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=LuDaBaSi&color=orange)
+
 <!--
 **LuDaBaSi/LuDaBaSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
