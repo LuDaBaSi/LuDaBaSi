@@ -26,7 +26,11 @@
 
 <p align="center">
 <img alt="Salesforce" width="70px" style="padding-right:30px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/salesforce/salesforce-original.svg"/>
-<img alt="GitLab" width="70px" style="padding-right:30px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original-wordmark.svg"/>
+<img alt="GitLab" width="70px" style="padding-right:30px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg"/>
+<img alt="AWS" width="70px" style="padding-right:30px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img alt="GoogleCloud" width="70px" style="padding-right:30px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg"/>
+<img alt="Magento" width="70px" style="padding-right:30px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/magento/magento-original.svg"/>
+<img alt="VCS" width="70px" style="padding-right:30px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/>
 </p>
 
 <br>
