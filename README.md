@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B4E3D&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F5191&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF6652&size=35&center=true&vCenter=true&width=1000&lines=Greetings,;I'm+Daniel+Barbosa;And+I'm+a+Data+devotee;Welcome+to+my+github!+&#128187;)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5A7FC5&size=35&center=true&vCenter=true&width=1000&lines=Greetings,;I'm+Daniel+Barbosa;And+I'm+a+Data+devotee;Welcome+to+my+github!+&#128187;)](https://git.io/typing-svg)
+2F5191
 <br><div align="center"> 
 
 ![](https://komarev.com/ghpvc/?username=LuDaBaSi&color=orange)
@@ -31,11 +31,14 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B4E3D&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F5191&height=120&section=footer"/>
 
 
 <!--
 **LuDaBaSi/LuDaBaSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+9B4E3D
+BF6652
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiogoFerreiraAlves02&bg_color=171717&color=d6d6d6&line=bfbabf&point=726e6e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
