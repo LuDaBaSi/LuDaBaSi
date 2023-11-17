@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F5191&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5A7FC5&size=35&center=true&vCenter=true&width=1000&lines=Greetings,;I'm+Daniel+Barbosa;And+I'm+a+Data+devotee;Welcome+to+my+github!+&#128187;)](https://git.io/typing-svg)
-2F5191
+
 <br><div align="center"> 
 
 ![](https://komarev.com/ghpvc/?username=LuDaBaSi&color=orange)
