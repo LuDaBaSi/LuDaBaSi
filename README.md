@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=LuDaBaSi&color=orange)
 
-<h3 align="center">
-<a href="(https://www.linkedin.com/in/danielbarbosa1994/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
- </h3>
+<section width="100%" align="center">
+	<a href="mailto:l.daniel.bs@gmail.com">
+		<img src='https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=111' height="30px" />
+	</a>
+	 <a href="https://www.linkedin.com/in/danielbarbosa1994/">
+		<img src='https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=111' height="30px" />
+	</a>
+</section>
 
  
 <h3 align="center"> Languages & Interpreter </h3>
@@ -36,10 +40,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuDaBaSi)](https://git.io/streak-stats)
 
 
-
-
-
-
+![](https://komarev.com/ghpvc/?username=LuDaBaSi&color=orange)
 
 
 
