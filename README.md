@@ -7,9 +7,6 @@
 ![](https://komarev.com/ghpvc/?username=LuDaBaSi&color=orange)
 
 <a href="https://www.linkedin.com/in/danielbarbosa1994/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-	
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuDaBaSi)](https://git.io/streak-stats)
-
 
 </div><be>
 
@@ -44,7 +41,7 @@
 9B4E3D
 BF6652
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiogoFerreiraAlves02&bg_color=171717&color=d6d6d6&line=bfbabf&point=726e6e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuDaBaSi&bg_color=171717&color=d6d6d6&line=bfbabf&point=726e6e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align = "center">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card" />  
