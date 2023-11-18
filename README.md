@@ -2,9 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5A7FC5&size=35&center=true&vCenter=true&width=1000&lines=Greetings,;I'm+Daniel+Barbosa;And+I'm+a+Data+devotee;Welcome+to+my+github!+&#128187;)](https://git.io/typing-svg)
 
-<br><div align="center"> 
+<br>
 
-![](https://komarev.com/ghpvc/?username=LuDaBaSi&color=orange)
+<div align="center"> 
+  
+**[My Curriculum](https://github.com/LuDaBaSi/CV)**<br />
 
 <a href="https://www.linkedin.com/in/danielbarbosa1994/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
@@ -30,7 +32,9 @@
 <img alt="VCS" width="70px" style="padding-right:30px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/>
 </p>
 
-<br>
+
+
+![](https://komarev.com/ghpvc/?username=LuDaBaSi&color=orange)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F5191&height=120&section=footer"/>
 
