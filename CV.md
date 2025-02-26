@@ -16,22 +16,22 @@
   - Demand Planner @ Lactogal
   - Sales Planner Officer @ Daikin Portugal
   - Senior RevOps & BI Analyst @ Unbabel
+  - Senior Strategy & Operations Manager @ Cloudflare
 
 
-  <h2 align="center"> About </h2>
+  <h2 align="center"> About me </h2>
 
-<p style="text-align: center;"> Throughout my career, I've been working on different approaches to data.</p> 
-<p style="text-align: center;"> First, I started working with a lot of economic data; supply and demand in real life. A few months in, I realized how the data impacted the logistics department and ultimately production. However, after my analysis, information was still pouring in. This required further investigation and is how I got introduced to the exciting world of business intelligence.</p>
-<p style="text-align: center"> I began creating reports with few variables, it didn't take long to understand that a business is full of different connections and dependencies. The more variables I added to my models, the more insights I could take from them.<p /> By the time I left this job, I was connecting variables from economic data with the revenue and logistics department. I was also a certified Financial Modeling and Data Analyst (FMVA) by the Corporate Finance Institute.</p> 
-<p style="text-align: center"> Despite learning the basics of BI, I didn't have the opportunity to work with financial data. I got that chance at my next position. This time I was working for a global company with ERP, CRM, and ETL tools. In a few months, I was reporting on P&L statements with data from revenue, marketing, and the general economic environment. Not only that, but I was responsible for the launch of a brand-new E-Com platform that allowed me to connect revenue with logistics.</p>
-<p style="text-align: center"> As a result of my work, our company had high-level reports on marketing, revenue, and finance. Additionally, I managed the new E-Com platform, setting targets and designing online campaigns.</p>
-<p style="text-align: center"> Today, my current role is even more data-driven. I am the proud BI tool admin, which requires me to direct our entire data flow for marketing, revenue, and finance.</p>
-<p style="text-align: center"> My success as a BI Manager is a result of my skills in SSRS (from my Business Intelligence and Data Analyst certification), and my fundamental knowledge of SSIS (from my on-the-job training).<p />Apart from this, I started a personal project on financial literacy, where I currently spend most of my free time.</p>
+<p style="text-align: center;"> Hi, I'm Daniel, an MSc in Finance and a Sales Operations and Strategy Manager, specializing in pipeline forecasting, revenue optimization, and strategic planning.</p> 
+<p style="text-align: center;"> In my current role, I focus on optimizing sales processes, improving forecast accuracy, and aligning cross-functional teams across the revenue stream. By leveraging CRM, BI tools, and financial modelling, I provide actionable insights that drive revenue growth and operational efficiency.</p>
+<p style="text-align: center"> My career started in finance and data analysis, where I built a strong foundation in economic data, supply and demand dynamics, and financial modelling. As a Certified Financial Modeling & Valuation Analyst (FMVA), I developed expertise in revenue forecasting and pipeline optimization.</p> 
+<p style="text-align: center"> Over the years, I’ve worked with global organizations, integrating ERP, CRM, and ETL tools to connect financial data with business metrics. One of my proudest achievements was leading the launch of a new E-Commerce platform, which bridged revenue streams with logistics, marketing, and customer success, creating a seamless data ecosystem.</p> 
+<p style="text-align: center"> I bring a unique blend of financial expertise, sales operations leadership, and a results-driven mindset to every project. If you’re looking for someone who can transform data into business impact, let’s connect—I’d love to explore how we can work together!</p> 
 
 
   <h2 align="center"> Hobbies </h2>
 
   - **[Personal Finance Website (PT-PT)](https://financas-pessoais.pt/)** <br />
+  - **Competitive Chess**
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F5191&height=120&section=footer"/>
