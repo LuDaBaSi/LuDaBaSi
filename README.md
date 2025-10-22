@@ -17,14 +17,15 @@
   - Sales Planner Officer @ Daikin Portugal
   - Senior RevOps & BI Analyst @ Unbabel
   - Senior Strategy & Operations Manager @ Cloudflare
+  - Head of FP&A and Business Operations Manager @ FRVR
 
 
   <h2 align="center"> About me </h2>
 
-<p style="text-align: center;"> Hi, I'm Daniel, an MSc in Finance and a Sales Operations and Strategy Manager, specializing in pipeline forecasting, revenue optimization, and strategic planning.</p> 
-<p style="text-align: center;"> In my current role, I focus on optimizing sales processes, improving forecast accuracy, and aligning cross-functional teams across the revenue stream. By leveraging CRM, BI tools, and financial modelling, I provide actionable insights that drive revenue growth and operational efficiency.</p>
-<p style="text-align: center"> My career started in finance and data analysis, where I built a strong foundation in economic data, supply and demand dynamics, and financial modelling. As a Certified Financial Modeling & Valuation Analyst (FMVA), I developed expertise in revenue forecasting and pipeline optimization.</p> 
-<p style="text-align: center"> Over the years, I’ve worked with global organizations, integrating ERP, CRM, and ETL tools to connect financial data with business metrics. One of my proudest achievements was leading the launch of a new E-Commerce platform, which bridged revenue streams with logistics, marketing, and customer success, creating a seamless data ecosystem.</p> 
+<p style="text-align: center;"> With almost a decade of experience in FP&A, strategy and operations, I have led cross-functional teams and critical projects, always to maximise value and build solid foundations for sustainable growth.</p> 
+<p style="text-align: center;"> Leadership goes far beyond the numbers. It’s about inspiring trust, nurturing talent and ensuring everyone moves in the same direction, from day-to-day operations to executing the company’s strategic vision.</p>
+<p style="text-align: center"> My career started in finance and data analysis, where I built a strong foundation in economic data, supply and demand dynamics, and financial modelling. As a Certified Financial Modeling & Valuation Analyst (FMVA), I developed expertise in revenue forecasting and pipeline optimisation.</p> 
+<p style="text-align: center"> Throughout my journey, I have worked closely with executives and boards to ensure financial and operational decisions are always anchored in a clear vision of long-term value creation.</p> 
 <p style="text-align: center"> I bring a unique blend of financial expertise, sales operations leadership, and a results-driven mindset to every project. If you’re looking for someone who can transform data into business impact, let’s connect—I’d love to explore how we can work together!</p> 
 
 
